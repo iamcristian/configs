@@ -1,0 +1,15 @@
+[user]
+	name = cristian
+	email = crisarandosyse@gmail.com
+[core]
+	editor = vim
+[alias]
+	cam = !git add -A && git commit -m
+
+[init]
+        defaultBranch = main
+
+[log]
+  date = relative
+[format]
+  pretty = format:%C(auto,yellow)%h%C(auto,magenta)% G? %C(auto,cyan)%>(12,trunc)%ad %C(auto,green)%<(14,trunc)%aN%C(auto,reset)%s%C(auto,red)% gD% D
