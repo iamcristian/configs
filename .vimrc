@@ -5,7 +5,11 @@ set clipboard=unnamed
 syntax enable
 set showcmd
 set ruler
+
+color desert
 set cursorline
+hi CursorLine term=bold cterm=bold guibg=Grey40
+
 set encoding=utf-8
 set showmatch
 set sw=2
@@ -25,7 +29,7 @@ Plug 'christoomey/vim-tmux-navigator'
 
 call plug#end()
 
-colorscheme gruvbox
+" colorscheme gruvbox
 let g:gruvbox_contrast_dark = "hard"
 let NERDTreeQuitOnOpen=1
 
