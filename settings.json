@@ -1,0 +1,57 @@
+{
+    "update.mode": "manual",
+    "editor.suggestSelection": "first",
+    "editor.guides.bracketPairs": "active",
+    "editor.autoClosingBrackets": "always",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.fontFamily": "'Fira Code Retina', 'Consolas', 'Courier New'",
+    "editor.fontSize": 13,
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "editor.stickyScroll.enabled": true,
+    "editor.mouseWheelZoom": true,
+    "workbench.colorTheme": "Andromeda Bordered",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.host": "127.0.0.1",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "css.format.spaceAroundSelectorSeparator": true,
+    "gitlens.codeLens.enabled": false,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+      
+      "*": true,
+      "yaml": false,
+      "plaintext": false,
+      "markdown": true
+    },
+    "terminal.integrated.env.windows": {},
+    "plantuml.render": "PlantUMLServer",
+    "plantuml.server": "http://www.plantuml.com/plantuml/",
+    "files.eol": "\n",
+    "editor.tabSize": 2,
+    "cSpell.userWords": ["arando", "cristian", "glsl", "svgr"],
+    "svg.preview.mode": "svg",
+    "console-ninja.outputMode": "In View",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "github.copilot.advanced": {
+  
+    }
+  }
+  
