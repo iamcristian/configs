@@ -1,4 +1,6 @@
-# ConfiguracionesLinux
+# ConfigsLinux
+
+
 
 ## Install vim-plug
 https://github.com/junegunn/vim-plug
