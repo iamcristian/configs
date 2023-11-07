@@ -27,11 +27,17 @@
     "console-ninja.featureSet": "Community",
     "github.copilot.enable": {
         "*": true,
-        "plaintext": false,
+        "plaintext": true,
         "markdown": true,
         "scminput": false
     },
     "[typescriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "plantuml.exportIncludeFolderHeirarchy": false,
+    "plantuml.server": "https://www.plantuml.com/plantuml",
 }
